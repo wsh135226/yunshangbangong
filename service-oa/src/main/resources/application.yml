@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-oa
+  profiles:
+    active: dev # 使用dev配置文件中的配置
